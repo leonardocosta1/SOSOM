@@ -1,0 +1,4 @@
+C:\Users\elias\OneDrive\Área de Trabalho\SOSOM\SOSOM\SOSOM\obj\Debug\SOSOM.csprojAssemblyReference.cache
+C:\Users\elias\OneDrive\Área de Trabalho\SOSOM\SOSOM\SOSOM\obj\Debug\SOSOM.Properties.Resources.resources
+C:\Users\elias\OneDrive\Área de Trabalho\SOSOM\SOSOM\SOSOM\obj\Debug\SOSOM.csproj.GenerateResource.cache
+C:\Users\elias\OneDrive\Área de Trabalho\SOSOM\SOSOM\SOSOM\obj\Debug\SOSOM.csproj.CoreCompileInputs.cache
